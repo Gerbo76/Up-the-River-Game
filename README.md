@@ -7,10 +7,12 @@ The objective of the game is to make a sequence of guesses to correctly predict 
 # Intended Users 
 People who are in need of some quick entertainment.
 
-# INTENDED FEATURES:
--Card guessing game
+# Updates
+- added leaderboard
+- added classic mode
+- added timed mode
 
-
--Score leaderboard
-
--Timed mode
+# Planned Features
+- play against computer mode
+- more professional look
+- switch classic mode leaderboard from failed attempts to number of wins
