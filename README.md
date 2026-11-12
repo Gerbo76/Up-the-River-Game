@@ -8,6 +8,9 @@ The objective of the game is to make a sequence of guesses to correctly predict 
 People who are in need of some quick entertainment.
 
 # INTENDED FEATURES:
-Card guessing game
-Score leaderboard
-Timed mode
+-Card guessing game
+
+
+-Score leaderboard
+
+-Timed mode
